@@ -9,7 +9,8 @@
 ## Setup (do once, 20 mins)
 
 - `gcc` or `clang` installed
-- Compile with warnings on **always**: `gcc -Wall -Wextra -g -o prog prog.c`
+- Compile with warnings on **always**: `gcc -Wall -Wextra -g -o prog pr
+og.c`
 - `valgrind` installed — you will use it, and it's the thing that teaches you memory
 - One folder, one `Makefile`, one repo. Push it. This repo *is* a CV piece.
 
