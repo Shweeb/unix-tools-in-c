@@ -9,7 +9,7 @@ Prints each command-line argument on its own line, numbered.
 3: c
 
 ## What I learned
-Literally my first ever C project so I was learning alot
-argc/argv, how C handles command-line arguments compared to Python
+Literally my first ever C project so I was learning alot.
+argc/argv, how C handles command-line arguments compared to Python.
 sys.argv, and that C requires an explicit compile step before running.
 makefile, how they are used to automate compilation (very convenient)
